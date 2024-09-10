@@ -1,0 +1,12 @@
+1.  Inisiasi (Input)
+-   Masukkan tahun masuk dan tahun sekarang (untuk menghitung semester).
+2.  Proses (Perhitungan)
+-   hitung jumlah tahun sejak mahasiswa masuk dan konversi tahun tersebut menjadi semester.
+-   Satu tahun akademik terdiri dari 2 semester, jadi setiap selisih tahun dihitung dengan rumus:
+    𝑆𝑒𝑚𝑒𝑠𝑡𝑒𝑟=(𝑡𝑎ℎ𝑢𝑛 𝑠𝑒𝑘𝑎𝑟𝑎𝑛𝑔−𝑡𝑎ℎ𝑢𝑛 𝑚𝑎𝑠𝑢𝑘)×2+𝑠𝑒𝑚𝑒𝑠𝑡𝑒𝑟 𝑠𝑎𝑎𝑡 𝑖𝑛𝑖
+-   Asumsikan bahwa semester ganjil dimulai pada bulan Agustus dan semester genap dimulai pada bulan Februari.
+-   Berdasarkan waktu saat ini, kita tentukan apakah sedang semester ganjil atau genap:
+-   Jika saat ini bulan berada pada interval Agustus - Januari, berarti mahasiswa berada di semester ganjil.
+-   Jika saat ini bulan berada pada interval Februari - Juli, berarti mahasiswa berada di semester genap.
+3. Output
+-   Setelah proses perhitungan selesai, hasil semester mahasiswa akan ditampilkan.
