@@ -1,6 +1,6 @@
 1.  Inisiasi (Input)
--   Masukkan jari-jari lingkaran (𝑟)
+    > Masukkan jari-jari lingkaran (𝑟)
 2.  Proses
--   Hitung luas lingkaran dengan rumus: 𝐿𝑢𝑎𝑠=𝜋×𝑟 pangkat 2 
+    > Hitung luas lingkaran dengan rumus: 𝐿𝑢𝑎𝑠=𝜋×𝑟 pangkat 2 
 3.  Output
--   Tampilkan hasil luas lingkaran.
+    > Tampilkan hasil luas lingkaran.
