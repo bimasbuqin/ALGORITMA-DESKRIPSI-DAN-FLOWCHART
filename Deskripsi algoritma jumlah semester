@@ -1,10 +1,9 @@
-ALGORITMA MENENTUKAN SEMESTER MAHASISWA BERDASARKAN TAHUN MASUK
-  • INISIASI 
+1.  INISIASI 
     > Masukan tahun masuk mahasiswa
     > Masukan tahun akademik saat ini
- • PROSES
+2.  PROSES
     > Hitung selisih antara tahun akademik saat ini dan tahun masuk mahasiswa
     > Ubah hasil selisih tahun ke jumlah semester dengan dikali 2 
     > Jika selisih tahun genap, maka ditambah dengan 1 
-  • OUTPUT
+3.  OUTPUT
     > Tampilkan semester mahasiswa
