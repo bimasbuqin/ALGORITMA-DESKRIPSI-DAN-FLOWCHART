@@ -1,7 +1,7 @@
 1.  Inisiasi (Input)
--   pengguna diminta memasukkan sebuah bilangan.
+    > pengguna diminta memasukkan sebuah bilangan.
 2.  Proses (Perhitungan)
--   Jika bilangan dibagi 2 sisa hasilnya adalah 0, maka bilangan tersebut adalah genap.
--   Jika bilangan dibagi 2 sisa hasilnya bukan 0, maka bilangan tersebut adalah ganjil.
+    > Jika bilangan dibagi 2 sisa hasilnya adalah 0, maka bilangan tersebut adalah genap.
+    > Jika bilangan dibagi 2 sisa hasilnya bukan 0, maka bilangan tersebut adalah ganjil.
 3.  Output
--   Setelah proses perhitungan, kita menampilkan hasilnya, apakah bilangan itu ganjil atau genap.
+    >  Setelah proses perhitungan, kita menampilkan hasilnya, apakah bilangan itu ganjil atau genap.
